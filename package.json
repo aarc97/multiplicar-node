@@ -1,0 +1,18 @@
+{
+  "name": "03-bases-node",
+  "version": "2.0.0",
+  "description": "Esta una aplicacion de linea de ocmando",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aarc97",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
